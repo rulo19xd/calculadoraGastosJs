@@ -1,0 +1,31 @@
+body , html {
+    margin: 0%;
+    padding: 0%;
+    height: 100%;
+    background-color: black;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.titulos {
+   padding-bottom: 300px;
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;;
+}
+.subt {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
